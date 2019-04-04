@@ -1,2 +1,2 @@
 # LoginPage
-A simple login page using social media buttons with Bootstrap.
+A simple Sign Up page using social media buttons with Bootstrap.
